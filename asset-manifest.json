@@ -1,19 +1,16 @@
 {
   "files": {
-    "main.css": "/Maxwell-Wong.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/Maxwell-Wong.github.io/static/js/main.34b7200e.js",
+    "main.css": "/Maxwell-Wong.github.io/static/css/main.712e69a3.css",
+    "main.js": "/Maxwell-Wong.github.io/static/js/main.ac68d510.js",
     "static/js/787.cda612ba.chunk.js": "/Maxwell-Wong.github.io/static/js/787.cda612ba.chunk.js",
-    "static/media/BBS.md": "/Maxwell-Wong.github.io/static/media/BBS.10c80c0e7ac2b70552ff.md",
-    "static/media/Banker.md": "/Maxwell-Wong.github.io/static/media/Banker.2cd7dfcc9ba780f08d18.md",
-    "static/media/MemorySharing.md": "/Maxwell-Wong.github.io/static/media/MemorySharing.a3c11b5816a7df09d2b2.md",
-    "static/media/React.md": "/Maxwell-Wong.github.io/static/media/React.cb3e75f19e363a0389cc.md",
+    "static/media/brain.jpg": "/Maxwell-Wong.github.io/static/media/brain.b5844ad21d11897c8840.jpg",
     "index.html": "/Maxwell-Wong.github.io/index.html",
-    "main.073c9b0a.css.map": "/Maxwell-Wong.github.io/static/css/main.073c9b0a.css.map",
-    "main.34b7200e.js.map": "/Maxwell-Wong.github.io/static/js/main.34b7200e.js.map",
+    "main.712e69a3.css.map": "/Maxwell-Wong.github.io/static/css/main.712e69a3.css.map",
+    "main.ac68d510.js.map": "/Maxwell-Wong.github.io/static/js/main.ac68d510.js.map",
     "787.cda612ba.chunk.js.map": "/Maxwell-Wong.github.io/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.34b7200e.js"
+    "static/css/main.712e69a3.css",
+    "static/js/main.ac68d510.js"
   ]
 }
