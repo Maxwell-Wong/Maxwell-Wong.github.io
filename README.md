@@ -1,47 +1,70 @@
-# Takuya's Homepage
+# Getting Started with Create React App
 
-[https://www.craftz.dog/](https://www.craftz.dog/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Tutorial
+## Available Scripts
 
-Watch how I built this website on YouTube:
+In the project directory, you can run:
 
-[![YouTube thumbnail](./doc/thumb.png)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
+### `npm start`
 
-## Stack
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- [Next.js](https://nextjs.org/) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
-- [Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library for React
-- [Three.js](https://threejs.org/) - 3D library for JavaScript
-- [Framer Motion](https://www.framer.com/motion/) - An animation library for React
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Project structure
+### `npm test`
 
-```
-$PROJECT_ROOT
-│   # Page files
-├── pages
-│   # React component files
-├── components
-│   # Non-react modules
-├── lib
-│   # Static files for images and 3d model file
-└── public
-```
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## License
+### `npm run build`
 
-MIT License.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-You can create your own homepage for free without notifying me by forking this project under the following conditions:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- Add a link to [my homepage](https://www.craftz.dog/)
-- Do not use the 3d voxel dog
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Check out [LICENSE](./LICENSE) for more detail.
+### `npm run eject`
 
----
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Looking for a Markdown note-taking app? Check out my app called Inkdrop:
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-[![Inkdrop](https://github.com/craftzdog/dotfiles-public/raw/master/images/inkdrop.png)](https://www.inkdrop.app/)
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
